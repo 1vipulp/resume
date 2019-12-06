@@ -1,4 +1,4 @@
-# This repo contains my digital resume. Follow link to have a look
+# This repo contains my digital resume. Follow the given link to have a look
 
 [#SeeMyResume](https://1vipulp.github.io/resume/)
 
